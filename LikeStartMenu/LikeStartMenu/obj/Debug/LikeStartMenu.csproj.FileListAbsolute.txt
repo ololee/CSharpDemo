@@ -1,0 +1,10 @@
+F:\C#Examples\LikeStartMenu\LikeStartMenu\bin\Debug\LikeStartMenu.exe.config
+F:\C#Examples\LikeStartMenu\LikeStartMenu\bin\Debug\LikeStartMenu.exe
+F:\C#Examples\LikeStartMenu\LikeStartMenu\bin\Debug\LikeStartMenu.pdb
+F:\C#Examples\LikeStartMenu\LikeStartMenu\obj\Debug\LikeStartMenu.csprojAssemblyReference.cache
+F:\C#Examples\LikeStartMenu\LikeStartMenu\obj\Debug\LikeStartMenu.Form1.resources
+F:\C#Examples\LikeStartMenu\LikeStartMenu\obj\Debug\LikeStartMenu.Properties.Resources.resources
+F:\C#Examples\LikeStartMenu\LikeStartMenu\obj\Debug\LikeStartMenu.csproj.GenerateResource.cache
+F:\C#Examples\LikeStartMenu\LikeStartMenu\obj\Debug\LikeStartMenu.csproj.CoreCompileInputs.cache
+F:\C#Examples\LikeStartMenu\LikeStartMenu\obj\Debug\LikeStartMenu.exe
+F:\C#Examples\LikeStartMenu\LikeStartMenu\obj\Debug\LikeStartMenu.pdb

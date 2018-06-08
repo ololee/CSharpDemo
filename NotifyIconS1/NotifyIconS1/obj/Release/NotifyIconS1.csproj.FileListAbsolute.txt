@@ -1,0 +1,9 @@
+F:\C#Examples\NotifyIconS1\NotifyIconS1\bin\Release\NotifyIconS1.exe.config
+F:\C#Examples\NotifyIconS1\NotifyIconS1\bin\Release\NotifyIconS1.exe
+F:\C#Examples\NotifyIconS1\NotifyIconS1\bin\Release\NotifyIconS1.pdb
+F:\C#Examples\NotifyIconS1\NotifyIconS1\obj\Release\NotifyIconS1.Form1.resources
+F:\C#Examples\NotifyIconS1\NotifyIconS1\obj\Release\NotifyIconS1.Properties.Resources.resources
+F:\C#Examples\NotifyIconS1\NotifyIconS1\obj\Release\NotifyIconS1.csproj.GenerateResource.cache
+F:\C#Examples\NotifyIconS1\NotifyIconS1\obj\Release\NotifyIconS1.csproj.CoreCompileInputs.cache
+F:\C#Examples\NotifyIconS1\NotifyIconS1\obj\Release\NotifyIconS1.exe
+F:\C#Examples\NotifyIconS1\NotifyIconS1\obj\Release\NotifyIconS1.pdb

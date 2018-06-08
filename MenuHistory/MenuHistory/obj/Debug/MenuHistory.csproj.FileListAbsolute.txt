@@ -1,0 +1,9 @@
+F:\C#Examples\MenuHistory\MenuHistory\bin\Debug\MenuHistory.exe
+F:\C#Examples\MenuHistory\MenuHistory\bin\Debug\MenuHistory.pdb
+F:\C#Examples\MenuHistory\MenuHistory\obj\Debug\MenuHistory.csprojAssemblyReference.cache
+F:\C#Examples\MenuHistory\MenuHistory\obj\Debug\MenuHistory.Form1.resources
+F:\C#Examples\MenuHistory\MenuHistory\obj\Debug\MenuHistory.Properties.Resources.resources
+F:\C#Examples\MenuHistory\MenuHistory\obj\Debug\MenuHistory.csproj.GenerateResource.cache
+F:\C#Examples\MenuHistory\MenuHistory\obj\Debug\MenuHistory.csproj.CoreCompileInputs.cache
+F:\C#Examples\MenuHistory\MenuHistory\obj\Debug\MenuHistory.exe
+F:\C#Examples\MenuHistory\MenuHistory\obj\Debug\MenuHistory.pdb

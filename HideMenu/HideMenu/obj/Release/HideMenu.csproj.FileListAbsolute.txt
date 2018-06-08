@@ -1,0 +1,10 @@
+F:\C#Examples\HideMenu\HideMenu\bin\Release\HideMenu.exe.config
+F:\C#Examples\HideMenu\HideMenu\bin\Release\HideMenu.exe
+F:\C#Examples\HideMenu\HideMenu\bin\Release\HideMenu.pdb
+F:\C#Examples\HideMenu\HideMenu\obj\Release\HideMenu.csprojAssemblyReference.cache
+F:\C#Examples\HideMenu\HideMenu\obj\Release\HideMenu.Form1.resources
+F:\C#Examples\HideMenu\HideMenu\obj\Release\HideMenu.Properties.Resources.resources
+F:\C#Examples\HideMenu\HideMenu\obj\Release\HideMenu.csproj.GenerateResource.cache
+F:\C#Examples\HideMenu\HideMenu\obj\Release\HideMenu.csproj.CoreCompileInputs.cache
+F:\C#Examples\HideMenu\HideMenu\obj\Release\HideMenu.exe
+F:\C#Examples\HideMenu\HideMenu\obj\Release\HideMenu.pdb
