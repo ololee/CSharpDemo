@@ -1,4 +1,4 @@
-####0x02:菜单动态合并 
+#### 菜单动态合并 
 ```
 技术要点:弹出菜单控件，也就是常说的右键菜单ContextMenuStrip
 利用该控件中的Items对象可以操作菜单中的菜单项。该对象为ToolStripMenuItme类型，使用Items.AddRange方法可以向弹出菜单添加菜单项。
